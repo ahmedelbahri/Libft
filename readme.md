@@ -9,6 +9,7 @@
 - [About](#about)
 - [Installation](#installation)
 - [Functions](#functions)
+- [Bonus Functions](#bonus-functions)
 - [Usage](#usage)
 - [License](#license)
 
@@ -73,6 +74,22 @@ The library implements the following functions:
 - `ft_tolower` - Converts a character to lowercase.
 
 **More functions may be included in the future.**
+
+---
+
+## Bonus Functions
+
+The **bonus** part of the project consists of additional functions that extend the library. These are typically not required for basic operations but can be useful in more advanced use cases. The bonus functions include:
+
+- `ft_lstnew` - Creates a new list element.
+- `ft_lstadd_front` - Adds a new element at the beginning of the list.
+- `ft_lstsize` - Returns the number of elements in the list.
+- `ft_lstlast` - Returns the last element of the list.
+- `ft_lstadd_back` - Adds a new element at the end of the list.
+- `ft_lstdelone` - Deletes a single element from the list.
+- `ft_lstclear` - Clears all elements from the list.
+- `ft_lstiter` - Iterates through the list and applies a function to each element.
+- `ft_lstmap` - Iterates through the list and applies a function to each element, returning a new list.
 
 ---
 
