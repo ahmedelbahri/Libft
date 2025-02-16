@@ -1,4 +1,4 @@
-# Libft 1337
+# Libft
 
 **Libft** is a custom C library project designed to help improve and refine low-level programming skills in C. It implements a set of functions commonly found in the C standard library, as well as custom utility functions that are useful for building more complex projects. This repository is part of the 42 School curriculum.
 
@@ -27,7 +27,7 @@ To install **libft 1337**, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/libft.git
+    git clone https://github.com/ahmedelbahri/libft.git
     cd libft
     ```
 
